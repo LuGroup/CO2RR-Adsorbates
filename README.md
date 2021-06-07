@@ -1,5 +1,5 @@
 # Description and Overview
-A machine learning pipeline and analysis for studying the influence of supplementary adsorbates on a Cu catalyst for enhancing the performance of the CO dimerization reaction for the production value-added hydrocarbons and oxygenates. 
+A machine learning pipeline and analysis for investigating the influence of supplementary adsorbates on a Cu catalyst for enhancing the performance of the CO dimerization reaction for the production value-added hydrocarbons and oxygenates. 
 
 # Dependencies
 Scikit-learn\
