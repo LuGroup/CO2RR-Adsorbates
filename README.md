@@ -12,6 +12,6 @@ matplotlib
 Make sure all supplementary codes and data files are saved into the same directory as the main pipeline. 
 
 # Contributors
-Tony Zhang (jiayi-zh18@mails.tsinghua.edu.cn)\
+Jiayi Zhang (jiayi-zh18@mails.tsinghua.edu.cn)\
 Donghuan Wu (wdh19@mails.tsinghua.edu.cn)\
 Haochen Zhang (zhc17@mails.tsinghua.edu.cn)
