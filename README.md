@@ -9,7 +9,7 @@ A machine learning pipeline and analysis for investigating the influence of supp
 - matplotlib
 
 # Publication
-Wu D.; Zhang J.; Cheng M.-J.; Lu Q.; Zhang H., Machine Learning Investigation of Supplementary Adsorbate
+Wu, D.; Zhang, J.; Cheng, M.-J.; Lu, Q.; Zhang, H., Machine Learning Investigation of Supplementary Adsorbate
 Influence on Copper for Enhanced Electrochemical CO2 Reduction
 Performance, J. Phys. Chem. C (In press)
 
