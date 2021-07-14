@@ -19,7 +19,7 @@ combinations. (b) Averaged ΔGCO hydrogenation of each adsorbate.
 # Publication
 Wu, D.; Zhang, J.; Cheng, M.-J.; Lu, Q.; Zhang, H., Machine Learning Investigation of Supplementary Adsorbate
 Influence on Copper for Enhanced Electrochemical CO2 Reduction
-Performance, J. Phys. Chem. C (In press)
+Performance, *J. Phys. Chem. C* (**In press**)
 
 # Reproduction
 Make sure all supplementary codes and data files are saved into the same directory as the main pipeline. 
